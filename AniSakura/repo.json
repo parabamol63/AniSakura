@@ -1,0 +1,7 @@
+{
+  "name": "AniSakura",
+  "description": "AniSakura anime provider for CloudStream",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/parabamol63/TestPlugins/master/AniSakura/plugins.json"
+  ]
+}
