@@ -5,15 +5,10 @@
     "url": "https://raw.githubusercontent.com/parabamol63/AniSakura/master/AniSakura/AniSakura.cs3",
     "version": 1,
     "status": 1,
-    "authors": [
-      "AniSakura CloudStream provider"
-    ],
+    "iconUrl": "https://raw.githubusercontent.com/parabamol63/AniSakura/master/AniSakura/icon.png",
+    "authors": ["AniSakura CloudStream provider"],
     "description": "Anime search, details, episodes, and source resolution from AniSakura.",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
+    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
     "language": "en"
   }
 ]

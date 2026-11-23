@@ -1,6 +1,7 @@
 {
   "name": "AniSakura",
   "description": "AniSakura anime provider for CloudStream",
+  "iconUrl": "https://raw.githubusercontent.com/parabamol63/AniSakura/master/AniSakura/icon.png",
   "pluginLists": [
     "https://raw.githubusercontent.com/parabamol63/AniSakura/master/AniSakura/plugins.json"
   ]
